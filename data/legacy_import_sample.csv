@@ -1,0 +1,6 @@
+date,time,amount_ml,category,note
+2026-11-25,08:30,400,Plain Water,Valid morning import
+2026-11-25,11:15,350,Herbal Tea,Valid mid-day import
+invalid-date,12:00,250,Plain Water,Bad date test case
+2026-11-25,14:00,9500,Plain Water,Out of bounds volume test
+2026-11-25,16:00,abc,Electrolyte,Non-numeric volume test

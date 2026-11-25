@@ -1,0 +1,338 @@
+[
+  {
+    "entry_id": "WTR-1015",
+    "date": "2026-11-18",
+    "time": "07:45",
+    "amount_ml": 200,
+    "category": "Infused Water",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1023",
+    "date": "2026-11-18",
+    "time": "08:13",
+    "amount_ml": 250,
+    "category": "Herbal Tea",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1031",
+    "date": "2026-11-18",
+    "time": "09:41",
+    "amount_ml": 750,
+    "category": "Electrolyte / Sports",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1039",
+    "date": "2026-11-18",
+    "time": "10:09",
+    "amount_ml": 350,
+    "category": "Infused Water",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1007",
+    "date": "2026-11-18",
+    "time": "21:17",
+    "amount_ml": 250,
+    "category": "Sparkling Water",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1030",
+    "date": "2026-11-19",
+    "time": "07:30",
+    "amount_ml": 750,
+    "category": "Electrolyte / Sports",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1038",
+    "date": "2026-11-19",
+    "time": "08:58",
+    "amount_ml": 300,
+    "category": "Electrolyte / Sports",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1006",
+    "date": "2026-11-19",
+    "time": "19:06",
+    "amount_ml": 200,
+    "category": "Plain Water",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1014",
+    "date": "2026-11-19",
+    "time": "20:34",
+    "amount_ml": 1000,
+    "category": "Herbal Tea",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1022",
+    "date": "2026-11-19",
+    "time": "21:02",
+    "amount_ml": 200,
+    "category": "Plain Water",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1005",
+    "date": "2026-11-20",
+    "time": "17:55",
+    "amount_ml": 500,
+    "category": "Infused Water",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1013",
+    "date": "2026-11-20",
+    "time": "18:23",
+    "amount_ml": 300,
+    "category": "Electrolyte / Sports",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1021",
+    "date": "2026-11-20",
+    "time": "19:51",
+    "amount_ml": 500,
+    "category": "Electrolyte / Sports",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1029",
+    "date": "2026-11-20",
+    "time": "20:19",
+    "amount_ml": 750,
+    "category": "Plain Water",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1037",
+    "date": "2026-11-20",
+    "time": "21:47",
+    "amount_ml": 250,
+    "category": "Sparkling Water",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1004",
+    "date": "2026-11-21",
+    "time": "15:44",
+    "amount_ml": 200,
+    "category": "Sparkling Water",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1012",
+    "date": "2026-11-21",
+    "time": "16:12",
+    "amount_ml": 750,
+    "category": "Infused Water",
+    "note": "Post-gym hydration"
+  },
+  {
+    "entry_id": "WTR-1020",
+    "date": "2026-11-21",
+    "time": "17:40",
+    "amount_ml": 300,
+    "category": "Sparkling Water",
+    "note": "Post-gym hydration"
+  },
+  {
+    "entry_id": "WTR-1028",
+    "date": "2026-11-21",
+    "time": "18:08",
+    "amount_ml": 750,
+    "category": "Herbal Tea",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1036",
+    "date": "2026-11-21",
+    "time": "19:36",
+    "amount_ml": 350,
+    "category": "Herbal Tea",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1003",
+    "date": "2026-11-22",
+    "time": "13:33",
+    "amount_ml": 250,
+    "category": "Electrolyte / Sports",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1011",
+    "date": "2026-11-22",
+    "time": "14:01",
+    "amount_ml": 300,
+    "category": "Plain Water",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1019",
+    "date": "2026-11-22",
+    "time": "15:29",
+    "amount_ml": 350,
+    "category": "Plain Water",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1027",
+    "date": "2026-11-22",
+    "time": "16:57",
+    "amount_ml": 300,
+    "category": "Herbal Tea",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1035",
+    "date": "2026-11-22",
+    "time": "17:25",
+    "amount_ml": 250,
+    "category": "Plain Water",
+    "note": "Post-gym hydration"
+  },
+  {
+    "entry_id": "WTR-1002",
+    "date": "2026-11-23",
+    "time": "11:22",
+    "amount_ml": 750,
+    "category": "Herbal Tea",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1010",
+    "date": "2026-11-23",
+    "time": "12:50",
+    "amount_ml": 250,
+    "category": "Infused Water",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1018",
+    "date": "2026-11-23",
+    "time": "13:18",
+    "amount_ml": 350,
+    "category": "Sparkling Water",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1026",
+    "date": "2026-11-23",
+    "time": "14:46",
+    "amount_ml": 750,
+    "category": "Herbal Tea",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1034",
+    "date": "2026-11-23",
+    "time": "15:14",
+    "amount_ml": 750,
+    "category": "Herbal Tea",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1042",
+    "date": "2026-11-23",
+    "time": "16:42",
+    "amount_ml": 500,
+    "category": "Sparkling Water",
+    "note": "Post-gym hydration"
+  },
+  {
+    "entry_id": "WTR-1001",
+    "date": "2026-11-24",
+    "time": "09:11",
+    "amount_ml": 750,
+    "category": "Plain Water",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1009",
+    "date": "2026-11-24",
+    "time": "10:39",
+    "amount_ml": 750,
+    "category": "Sparkling Water",
+    "note": "Lunchtime water"
+  },
+  {
+    "entry_id": "WTR-1017",
+    "date": "2026-11-24",
+    "time": "11:07",
+    "amount_ml": 300,
+    "category": "Plain Water",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1025",
+    "date": "2026-11-24",
+    "time": "12:35",
+    "amount_ml": 350,
+    "category": "Herbal Tea",
+    "note": "Lunchtime water"
+  },
+  {
+    "entry_id": "WTR-1033",
+    "date": "2026-11-24",
+    "time": "13:03",
+    "amount_ml": 750,
+    "category": "Sparkling Water",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1041",
+    "date": "2026-11-24",
+    "time": "14:31",
+    "amount_ml": 250,
+    "category": "Electrolyte / Sports",
+    "note": "Evening walk bottle"
+  },
+  {
+    "entry_id": "WTR-1008",
+    "date": "2026-11-25",
+    "time": "08:28",
+    "amount_ml": 200,
+    "category": "Sparkling Water",
+    "note": "Between lectures refill"
+  },
+  {
+    "entry_id": "WTR-1016",
+    "date": "2026-11-25",
+    "time": "09:56",
+    "amount_ml": 300,
+    "category": "Herbal Tea",
+    "note": "Library study session"
+  },
+  {
+    "entry_id": "WTR-1024",
+    "date": "2026-11-25",
+    "time": "10:24",
+    "amount_ml": 1000,
+    "category": "Electrolyte / Sports",
+    "note": "Morning wake-up glass"
+  },
+  {
+    "entry_id": "WTR-1032",
+    "date": "2026-11-25",
+    "time": "11:52",
+    "amount_ml": 350,
+    "category": "Infused Water",
+    "note": "Post-gym hydration"
+  },
+  {
+    "entry_id": "WTR-1040",
+    "date": "2026-11-25",
+    "time": "12:20",
+    "amount_ml": 350,
+    "category": "Electrolyte / Sports",
+    "note": "Post-gym hydration"
+  }
+]
